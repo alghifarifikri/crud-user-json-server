@@ -36,7 +36,7 @@
 
 <p align="center">
     <span>
-        <image width="700" src="./ss/2.PNG" />
+        <image width="700" src="./ss/2.png" />
     </span>
 </p>
 
@@ -44,10 +44,10 @@
 
   <p align="center">
     <span>
-      <image width="700" src="./ss/2.PNG" />
-      <image width="700" src="./ss/3.PNG" />
-      <image width="700" src="./ss/4.PNG" />
-      <image width="700" src="./ss/5.PNG" />
-      <image width="700" src="./ss/6.PNG" />
+      <image width="700" src="./ss/2.png" />
+      <image width="700" src="./ss/3.png" />
+      <image width="700" src="./ss/4.png" />
+      <image width="700" src="./ss/5.png" />
+      <image width="700" src="./ss/6.png" />
     </span>
   </p>
