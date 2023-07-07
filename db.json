@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "Alghifari",
+      "lastname": "Fikri",
+      "username": "noobmaster69",
+      "email": "alghi@gmail.com",
+      "password": "Password*",
+      "confirmPassword": "Password*",
+      "expiredDate": "2023-07-20",
+      "groupAccess": "1"
+    },
+    {
+      "username": "jdid",
+      "password": "Narut*",
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "jd@gm.com",
+      "groupAccess": "4",
+      "expiredDate": "2023-07-08",
+      "confirmPassword": "Narut*",
+      "id": "pl9yzxd"
+    },
+    {
+      "email": "na@m.com",
+      "password": "Narut*12",
+      "firstname": "Nash",
+      "lastname": "Jr.",
+      "username": "najr",
+      "groupAccess": "3",
+      "expiredDate": "2023-07-08",
+      "confirmPassword": "Narut*12",
+      "id": "fts9g26"
+    },
+    {
+      "email": "daj@m.c",
+      "password": "Narut*",
+      "firstname": "Uchiha",
+      "lastname": "Boruto",
+      "username": "uzu123",
+      "groupAccess": "3",
+      "expiredDate": "2023-07-08",
+      "confirmPassword": "Narut*",
+      "id": "14jm678"
+    },
+    {
+      "email": "gm2@gm.com",
+      "password": "Narut*123",
+      "firstname": "Master",
+      "lastname": "Grand",
+      "username": "gm",
+      "groupAccess": "1",
+      "expiredDate": "2023-07-08",
+      "confirmPassword": "Narut*123",
+      "id": "chgpe8z"
+    },
+    {
+      "password": "Narut*",
+      "firstname": "Super",
+      "lastname": "User",
+      "username": "su",
+      "email": "su@g.com",
+      "groupAccess": "1",
+      "expiredDate": "2023-07-29",
+      "confirmPassword": "Narut*",
+      "id": "ddfjbwg"
+    },
+    {
+      "password": "Jair*1",
+      "firstname": "Drakken",
+      "lastname": "Joe",
+      "username": "dj",
+      "email": "dj@g.com",
+      "groupAccess": "2",
+      "expiredDate": "2023-07-27",
+      "confirmPassword": "Jair*1",
+      "id": "tl8rlk1"
+    }
+  ]
+}
