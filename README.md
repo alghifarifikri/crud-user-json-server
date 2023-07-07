@@ -26,7 +26,7 @@
 
 <p align="center">
     <span>
-        <image width="600" src="./ss/1.PNG" />
+        <image width="600" src="./ss/1.png" />
     </span>
 </p>
 
