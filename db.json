@@ -3,7 +3,7 @@
     {
       "id": "1",
       "firstname": "Alghifari",
-      "lastname": "Fikri",
+      "lastname": "Update",
       "username": "noobmaster69",
       "email": "alghi@gmail.com",
       "password": "Password*",
@@ -32,17 +32,6 @@
       "expiredDate": "2023-07-08",
       "confirmPassword": "Narut*12",
       "id": "fts9g26"
-    },
-    {
-      "email": "daj@m.c",
-      "password": "Narut*",
-      "firstname": "Uchiha",
-      "lastname": "Boruto",
-      "username": "uzu123",
-      "groupAccess": "3",
-      "expiredDate": "2023-07-08",
-      "confirmPassword": "Narut*",
-      "id": "14jm678"
     },
     {
       "email": "gm2@gm.com",
@@ -76,6 +65,17 @@
       "expiredDate": "2023-07-27",
       "confirmPassword": "Jair*1",
       "id": "tl8rlk1"
+    },
+    {
+      "firstname": "Vue",
+      "lastname": "React",
+      "username": "framework",
+      "email": "js@gm.com",
+      "groupAccess": "4",
+      "expiredDate": "2023-07-27",
+      "password": "Bobob*",
+      "confirmPassword": "Bobob*",
+      "id": "1j9nytw"
     }
   ]
 }
