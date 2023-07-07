@@ -13,7 +13,7 @@
 - React V.18.2.0
 - Tailwind CSS
 
-## Cara Menjalankan
+## Cara Menjalankan :
 
 1. Buka Terminal / CMD
 2. kemudian ketik `git clone https://github.com/alghifarifikri/crud-user-json-server.git`
